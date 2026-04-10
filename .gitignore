@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.log
+/runs/
+/data/
+*.iml
+/misc.xml
+/modules.xml
+/profiles_settings.xml
+/Project_Default.xml
+/shelf/
+/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
